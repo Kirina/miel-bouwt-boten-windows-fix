@@ -10,7 +10,7 @@ The following issues kept occurring that really disturbed the gameplay:
 
 After some logging and Clauding it made a nice setup that fixed the problems and now the game runs smoothly.
 
-Click **`MielStart.bat`** to start the game.
+Click **`MielStart.bat`** to start the game after adding the setup files to the game folder or an adjacent folder.
 
 ## Files
 
