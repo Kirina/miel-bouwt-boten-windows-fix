@@ -12,6 +12,8 @@ After some logging and Clauding it made a nice setup that fixed the problems and
 
 Click **`MielStart.bat`** to start the game after adding the setup files to the game folder or an adjacent folder.
 
+Probably also works for other Miel Monteur games but haven't tested.
+
 ## Files
 
 | File                  | What it does                                                                                                         |
